@@ -72,18 +72,17 @@ def TraduceRomano(numero, lastChar, romanCharsDic):
         # la recursión.
 
 # ejemplos de ejecución.
+
+
+#Se agregan ejemplos de ejecucion
+
+print("Romano XXXX: ")+str(romano("XXXX"))
 print("Romano XIX: " + str(romano("XIX")))
 print("Romano XX: " + str(romano("XX")))
-print("Romano MMXX: " + str(romano("MMXX")))
-print("Romano xx: " + str(romano("xx")))
-print("Romano XD: " + str(romano("XD")))
 
 
 
 
-import random
 
 
 
-
-print("Romano F: " + str(romano("F")))
